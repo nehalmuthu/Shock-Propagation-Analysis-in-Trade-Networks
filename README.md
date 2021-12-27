@@ -9,9 +9,9 @@ Our objective is to observe and analyse how shocks propagate in a trade network 
 
 ## Implementation Details:
 - We start our analysis by finding:
-- Sub Shocks that affect individual agents
-- Sub connections between agents
-- Sub and the distribution of activity.  		
+    - Sub Shocks that affect individual agents
+    - Sub connections between agents
+    - Sub and the distribution of activity.  		
 - Specifically, two models are applied to international trade data to explain relationships between exogenous shocks and fluctuations elsewhere in the network.
 - The first model examines aggregate fluctuations at a country level by decomposing each country's imports of individual intermediate goods by whether or not each good has power-law-distributed exporter sizes, and whether or not the good is imported from a country with a large natural disaster. 
 - The second model examines instead exogenous shocks that are not localized, but captured by the price of oil and its interaction with each country's role in the global trade network of all goods. 
