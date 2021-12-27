@@ -1,13 +1,13 @@
 # Shock-Propagation-Analysis-in-Trade-Networks
 
-##Problem Statement:
+## Problem Statement:
 Our objective is to observe and analyse how shocks propagate in a trade network and the factors causing its spread in the network. We first find the importance of a country in a network using centrality measures and MST , followed by its export import distributions(power law), and then find communities which are likely to get affected during a calamity (using community detection). Robustness Analysis is done to find out about the stability of the product  networks(crude oil and petroleum). 
 
-##dataset :
-(http://www.cepii.fr/DATA_DOWNLOAD/baci/doc/DescriptionBACI.html)
+## dataset :
+[http://www.cepii.fr/DATA_DOWNLOAD/baci/doc/DescriptionBACI.html]
 Contains trade data from the year 2004 till 2018.
 
-##Implementation Details:
+## Implementation Details:
 We start our analysis by finding:
 Shocks that affect individual agents
 connections between agents
